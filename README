@@ -1,7 +1,7 @@
-Final Project
-Jasey Chanders
+### Final Project
+## Jasey Chanders
 
-CSCI4229/5229 Fall 2024
+## CSCI4229/5229 Fall 2024
 
 This project is a demonstration of using a frag shader to draw objects and shows off some of the cool ways you can combine them that are simple
 in ray marching but would be incredibly difficult in standard basic object based graphics. This code is essentially a basic rendering engine that
@@ -10,7 +10,7 @@ to change its properties such as it's visibility, location and size as well as s
 as well as destructive interference with the sphere. The Sierpinski's triangle allows for rendering at 4 different fractal levels.  Beyond basic properties the overall method for combining objects
 can be changed from a simple combination to a smoothing effect called a smooth minimum.
 
-Hot keys were provided to show the most interesting effects.
+## Hot keys were provided to show the most interesting effects.
 0: Reset Camera
 1: Object Addition
 2: Smooth Addition of objects
@@ -26,7 +26,7 @@ a 3D Sierpinski's SDF which I'm sure someone has but in the interest of my own l
 of building complex SDFs I decided to build it myself in a way I could get my head around.
 
 
-Key bindings (All shown on screen for ease of use as their are a lot)
+## Key bindings (All shown on screen for ease of use as their are a lot)
   arrows       Controls view of scene
   n            Flips though possible shapes to edit
   0            Reset camera angle
@@ -52,7 +52,7 @@ Key bindings (All shown on screen for ease of use as their are a lot)
 
 
 -----------
-  Sources
+## Sources
 
 What I used from sources:
 Basic ray tracing algorithm
